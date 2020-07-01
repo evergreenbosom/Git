@@ -1,4 +1,7 @@
 public class A{
-public static void 
+public static void (main[]args){
 
-System 
+
+System.out.println("Hello")
+}
+}
